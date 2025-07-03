@@ -1,2 +1,2 @@
 # tkcolors
-symbolic color names recognized by Tk
+Symbolic color names recognized by Tk
